@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/Shashi_Portfolio/static/css/main.e1da3984.css",
-    "main.js": "/Shashi_Portfolio/static/js/main.00b7db93.js",
+    "main.js": "/Shashi_Portfolio/static/js/main.03d51f4b.js",
     "static/media/fa-solid-900.svg": "/Shashi_Portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/harish_pic.jpg": "/Shashi_Portfolio/static/media/harish_pic.0b4fadbfa8d678fac5ed.jpg",
     "static/media/fa-brands-400.svg": "/Shashi_Portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/shaurya_logo.png": "/Shashi_Portfolio/static/media/shaurya_logo.94ff45f73a3dae99d424.png",
-    "static/media/graphics_design.svg": "/Shashi_Portfolio/static/media/graphics_design.a8f4ac7cad0c9af498de.svg",
     "static/media/MS_HALL_Logo.png": "/Shashi_Portfolio/static/media/MS_HALL_Logo.51f522bee70e9753d9db.png",
     "static/media/Montserrat-Regular.ttf": "/Shashi_Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/fa-solid-900.eot": "/Shashi_Portfolio/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
@@ -40,6 +39,7 @@
     "static/media/fa-regular-400.eot": "/Shashi_Portfolio/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/Shashi_Portfolio/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/novanector.png": "/Shashi_Portfolio/static/media/novanector.2b064a261fb49b890be3.png",
+    "static/media/undraw_designer_re_5v95.svg": "/Shashi_Portfolio/static/media/undraw_designer_re_5v95.a3248526c380e90977df.svg",
     "static/media/developerActivity.svg": "/Shashi_Portfolio/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/Shashi_Portfolio/static/media/github_logo.15e591a7397b9ef45656.png",
     "static/media/logo.png": "/Shashi_Portfolio/static/media/logo.d57d8d9b654dce938778.png",
@@ -50,6 +50,7 @@
     "static/media/experience.svg": "/Shashi_Portfolio/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/kik_logo.png": "/Shashi_Portfolio/static/media/kik_logo.bc34184b7fe2143f59bc.png",
     "static/media/fa-regular-400.woff": "/Shashi_Portfolio/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/graphics_design.svg": "/Shashi_Portfolio/static/media/graphics_design.d28c6b5c98031c99c389.svg",
     "static/media/TSG_logo.png": "/Shashi_Portfolio/static/media/TSG_logo.8fa632c36bfa2f64f806.png",
     "static/media/fa-regular-400.woff2": "/Shashi_Portfolio/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "/Shashi_Portfolio/static/media/feelingProud.288e616ff8dc11bd4713.svg",
@@ -70,10 +71,10 @@
     "static/media/talksCardBackAlt.svg": "/Shashi_Portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/Shashi_Portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.e1da3984.css.map": "/Shashi_Portfolio/static/css/main.e1da3984.css.map",
-    "main.00b7db93.js.map": "/Shashi_Portfolio/static/js/main.00b7db93.js.map"
+    "main.03d51f4b.js.map": "/Shashi_Portfolio/static/js/main.03d51f4b.js.map"
   },
   "entrypoints": [
     "static/css/main.e1da3984.css",
-    "static/js/main.00b7db93.js"
+    "static/js/main.03d51f4b.js"
   ]
 }
