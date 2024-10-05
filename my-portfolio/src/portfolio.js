@@ -14,7 +14,7 @@ const seo = {
   og: {
     title: "Shashi Bhushan Portfolio",
     type: "website",
-    url: "https://harish-kushwah.github.io/my-portfolio/",
+    url: "https://github.com/Xprofess0r/Shashi_Portfolio.git",
   },
 };
 
@@ -39,7 +39,7 @@ const greeting = {
   ],
   resumeLink:
     "https://drive.google.com/file/d/1yF6RBzMoECP5o7ChUnX54opWpdm1CQLf/view?usp=sharing",
-  portfolio_repository: "https://github.com/Harish-Kushwah/my-portfolio",
+  portfolio_repository: "https://github.com/Xprofess0r/Shashi_Portfolio.git",
   githubProfile: "https://github.com/Xprofess0r",
 };
 
