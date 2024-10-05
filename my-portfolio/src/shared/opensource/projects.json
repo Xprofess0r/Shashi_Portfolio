@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJ__6yQ",
+      "name": "Blog website",
+      "createdAt": "2023-07-26T14:05:49Z",
+      "url": "https://github.com/Xprofess0r/Full-stack-web-dev",
+      "description": "Blog website with user authentication enabling users to log in, create, edit, delete their own blogs and like others blogs. Features include an admin panel, dashboard and sign-in/signup functionalities",
+      "isFork": false,
+      "languages": [
+        { "name": "MongoDB",  "iconifyClass": "simple-icons:mongodb",  "color": "#4DB33D" },
+        { "name": "React", "iconifyClass": "logos-react" },
+        { "name": "Node.js", "iconifyClass": "logos-nodejs" }
+      ]
+    },
+    {
+      "id": "R_kgDOJ0Wmbw",
+      "name": "Google gemini clone",
+      "createdAt": "2024-06-26T17:08:48Z",
+      "url": "https://xprofess0r.github.io/Google-Gemini/",
+      "description": "A fully functional clone of Google Gemini, Fetching real-time data from the Gemini API, employing efficient data parsing and state management techniques to ensure smooth application performance",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    },
+    {
+      "id": "R_kgDOKYeMjQ",
+      "name": "NewsApp",
+      "createdAt": "2024-08-26T11:12:54Z",
+      "url": "https://newstatkal.netlify.app/",
+      "description": "A dynamic, responsive News Application, enabling real-time news updates and efficient filtering and search features",
+      "isFork": false,
+      "languages": [
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDOLU16FQ",
+      "name": "15 Puzzle Game",
+      "createdAt": "2024-02-19T17:36:18Z",
+      "url": "https://shashi15puzzle.netlify.app/",
+      "description": "A dynamic puzzle game, Enhanced by adding mouse and keyboard controls, allows users to click on numbered tiles, automatically moving them to adjacent empty spaces.",
+      "isFork": false,
+      "languages": [
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDOMdJoHw",
+      "name": "Restaurant Menu web-Design",
+      "createdAt": "2024-04-30T17:37:43Z",
+      "url": "https://www.figma.com/proto/j3XNtiQOIvhhpnG4bKOHvv/Restaurant-Menu?page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&t=gG1Yw9R5kXyfMGoL-1",
+      "description": "A responsive restaurant menu UI, with proper sections and footer enchancing the user experience.",
+      "isFork": false,
+      "languages": [
+        {"name": "Figma", "iconifyClass": "logos-figma" }
+      ]
+    },
+    {
+      "id": "R_kgDOKuu9lA",
+      "name": "E-commerce Website Web-Design",
+      "createdAt": "2023-11-17T15:05:47Z",
+      "url": "https://www.figma.com/proto/aBxscSE489X60L6G0jhnyr/Ecommerce-Website?page-id=0%3A1&node-id=1-2&starting-point-node-id=13%3A2578&t=GaYGxFDto1GiPcld-1",
+      "description": "A comprehensive 13+ page E-commerce website Design, enhanced user experience and visual appeal",
+      "isFork": false,
+      "languages": [
+        {"name": "Figma", "iconifyClass": "logos-figma" }
+      ]
+    }
+  ]
+}
